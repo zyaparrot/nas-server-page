@@ -1,3 +1,3 @@
 # nas-server-page
 
-Link : http://www.쨔.서버.한국
+<a href="http://www.쨔.서버.한국" target="_blank">[ Link ]<a/>
